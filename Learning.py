@@ -9,4 +9,4 @@ from matplotlib.pyplot import subplot
 y = rng.normal(size = 50)
 fig, ax = subplot(figsize = (8, 8))
 ax.plot(x, y)
-plt.show()
+
